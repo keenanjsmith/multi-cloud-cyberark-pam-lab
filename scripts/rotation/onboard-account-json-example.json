@@ -1,0 +1,6 @@
+{
+  "safe": "ExampleSafe",
+  "platformId": "WinServerLocal",
+  "address": "server.domain.local",
+  "username": "Administrator"
+}
